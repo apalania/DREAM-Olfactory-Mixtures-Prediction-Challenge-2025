@@ -1,6 +1,6 @@
 # DREAM-Olfactory-Mixtures-Prediction-Challenge-2025
 
-One contribution from SystemsCBLab. 
+One contribution from SystemsCBLab to [DREAM-Olfactory-Mixtures-Prediction-Challenge-2025](https://www.synapse.org/Synapse:syn64743570)
 
 Team:
 
