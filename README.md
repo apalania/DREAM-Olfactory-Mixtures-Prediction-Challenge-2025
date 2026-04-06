@@ -7,3 +7,5 @@ One contribution from SystemsCBLab to [DREAM-Olfactory-Mixtures-Prediction-Chall
 2. Dr Ashok Palaniappan 
 
 Includes processed datasets and source code for feature engineering, feature selection, and training our models for both Task-1 and Task-2. Please see the write-up for information on our ensemble approach to the Challenge Tasks. 
+
+For the Challenge repository, see [here](https://github.com/xuebosong93/Dream-Olfaction-Challenge-2025/tree/main/data). 
