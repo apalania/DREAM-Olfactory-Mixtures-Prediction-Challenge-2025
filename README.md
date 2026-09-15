@@ -1,5 +1,6 @@
 # DREAM-Olfactory-Mixtures-Prediction-Challenge-2025
-[![DOI](https://zenodo.org/badge/1046435773.svg)](https://doi.org/10.5281/zenodo.17085609)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17085609.svg)](https://doi.org/10.5281/zenodo.17085609)
+
 One contribution from SystemsCBLab to [DREAM-Olfactory-Mixtures-Prediction-Challenge-2025](https://www.synapse.org/Synapse:syn64743570)
 
 ## Team:
